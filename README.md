@@ -1,2 +1,2 @@
 # Android | Calculadora
- Calculadora sencillada desarrollada con Android Studio
+ Calculadora sencilla desarrollada con Android Studio
